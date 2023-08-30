@@ -41,7 +41,7 @@ If you have something recent, or have dug up something important in the past, pl
      href="https://github.com/nerdbond">
     <span property="dct:title">NerdBond</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Seed</span>.
+  <span property="dct:title">fire</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/nerdbond">
