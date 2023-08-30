@@ -57,6 +57,7 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for t
   - climate-change
   - species-extinction
   - deforestation
+  - pollution
 
 ## Contribute
 
