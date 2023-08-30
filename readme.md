@@ -23,6 +23,8 @@
 
 This is a public collection of polarizing content, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
+See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for the underlying data, but eventually we will build a site for it.
+
 ## Contribute
 
 If you have something recent, or have dug up something important in the past, please open an issue or PR with a link to the content so we can add it to the collection.
