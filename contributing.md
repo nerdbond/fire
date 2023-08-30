@@ -50,6 +50,8 @@ Ideally you can submit 5 or 10 chunks of content at a time. A "chunk" means:
 - tags/categories (1 or 2 key tags to organize the content according to the themes)
 - link (to the original article or post)
 
+You would **download each image and video**, and make a record of it in a spreadsheet, that's pretty much it.
+
 ### Downloading Images and Videos
 
 It is important to download the images and videos, so we can create a more permanent record. Here are some example sites for downloading images and videos from social media sites:
