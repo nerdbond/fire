@@ -73,6 +73,10 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link/negative.c
 - **awareness**
 - **factchecking**
 
+### Decisions / Change
+
+This section is decisions we as a society make to try and find peace and balance, or other less glorious reasons for making decisions.
+
 ## Contribute
 
 If you have something recent, or have dug up something important in the past, please open an issue or PR with a link to the content so we can add it to the collection.
