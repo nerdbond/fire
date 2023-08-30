@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/nerdbond/fire/blob/make/view/fire.gif?raw=true' height='192'>
+  <img src='https://github.com/nerdbond/fire/blob/make/view/fire.gif?raw=true' height='256'>
 </p>
 
 <h3 align='center'>fire</h3>
