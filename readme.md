@@ -29,26 +29,34 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for t
 
 ## Categories
 
-- violence (not extreme gory violence, but enough to get the picture across)
+- **violence** (not extreme gory violence, but enough to get the picture
+  across)
   - police-violence
   - individual-violence
   - group-violence
-- hate
+- **hate**
   - racism
   - anti-woman
   - anti-lgtbq+
   - anti-refugee
   - anti-immigrant
   - anti-man
-- lying
+- **lying**
   - political-lying
-- bias (taking too hard of a stance without taking into account a full
-  perspective)
+- **bias** (taking too hard of a stance without taking into account a
+  full perspective)
   - us-anti-conservative-bias
   - us-anti-liberal-bias
-  - discrimination (not necessarily hate, but an implicit bias undercutting someone)
-- ignorance
-  - climate-denial
+  - discrimination (not necessarily hate, but an implicit bias
+    undercutting someone)
+- **ignorance**
+  - climate-change-denial
+- **corruption**
+  - cronyism
+- **awareness**
+  - climate-change
+  - species-extinction
+  - deforestation
 
 ## Contribute
 
