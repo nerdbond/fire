@@ -49,6 +49,7 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link/negative.c
   - us-anti-liberal-bias
   - discrimination (not necessarily hate, but an implicit bias
     undercutting someone)
+  - bigotry
 - **ignorance**
   - climate-change-denial
 - **corruption**
