@@ -23,7 +23,7 @@
 
 This is a public collection of polarizing content, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
-See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for the underlying data, but eventually we will build a site for it.
+See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for the underlying data. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
 
 ## Contribute
 
