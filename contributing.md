@@ -1,4 +1,4 @@
-# Contributing to the Fire Project
+# Contributing to the Project
 
 Thank you so much for wanting or helping to contribute, it means so much and this will hopefully serve as a great resource for other journalists, researchers, and self-learners to figure out what's right and wrong with society for themselves.
 
