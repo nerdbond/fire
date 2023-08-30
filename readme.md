@@ -25,9 +25,36 @@ This is a public collection of undesirable content, so you can get a better sens
 
 See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for the underlying data. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
 
+## Content
+
+## Categories
+
+- violence (not extreme gory violence, but enough to get the picture across)
+  - police-violence
+  - individual-violence
+  - group-violence
+- hate
+  - racism
+  - anti-woman
+  - anti-lgtbq+
+  - anti-refugee
+  - anti-immigrant
+  - anti-man
+- lying
+  - political-lying
+- bias (taking too hard of a stance without taking into account a full
+  perspective)
+  - us-anti-conservative-bias
+  - us-anti-liberal-bias
+  - discrimination (not necessarily hate, but an implicit bias undercutting someone)
+- ignorance
+  - climate-denial
+
 ## Contribute
 
 If you have something recent, or have dug up something important in the past, please open an issue or PR with a link to the content so we can add it to the collection.
+
+This is not a news site, but a place to aggregate important media so we can become more aware of how the world is functioning with today's complexities and problems.
 
 ## License
 
