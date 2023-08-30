@@ -58,6 +58,8 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for t
   - species-extinction
   - deforestation
   - pollution
+- **misinformation** (stuff intending to deceive)
+  - propaganda
 
 ## Contribute
 
