@@ -67,6 +67,11 @@ If you have something recent, or have dug up something important in the past, pl
 
 This is not a news site, but a place to aggregate important media so we can become more aware of how the world is functioning with today's complexities and problems.
 
+## Other Resources
+
+- [GeorgeFloyd Protest - police brutality videos on Twitter (Spreadsheet)](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8#)
+- [/t/hate_speech](https://www.reddit.com/t/hate_speech/)
+
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
