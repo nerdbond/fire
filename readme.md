@@ -79,7 +79,7 @@ This section is decisions we as a society make to try and find peace and balance
 
 ## Contribute
 
-If you have something recent, or have dug up something important in the past, please [open an issue or PR](https://github.com/nerdbond/fire/issues) with a link to the content so we can add it to the collection. For a more detailed guide on one particular approach to contributing sort of like a journalist, see the [contributing guide](https://github.com/nerdbond/fire/blob/make/contributing.md)
+If you have something recent, or have dug up something important in the past, please [open an issue or PR](https://github.com/nerdbond/fire/issues) with a link to the content so we can add it to the collection. For a more detailed guide on one particular approach to contributing sort of like a journalist, see the [contributing guide](https://github.com/nerdbond/fire/blob/make/contributing.md).
 
 This is not a news site, but a place to aggregate important media so we can become more aware of how the world is functioning with today's complexities and problems.
 
