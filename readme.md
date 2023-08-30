@@ -27,7 +27,7 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link/negative.c
 
 ## Content
 
-## Categories
+### Negative Categories
 
 - **violence** (not extreme gory violence, but enough to get the picture
   across)
@@ -60,6 +60,17 @@ See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link/negative.c
   - pollution
 - **misinformation** (stuff intending to deceive)
   - propaganda
+
+### Positive Categories
+
+- **protests** (peaceful protests and demonstrations)
+- **love**
+- **sharing**
+- **open-mindedness**
+- **education**
+- **values**
+- **awareness**
+- **factchecking**
 
 ## Contribute
 
