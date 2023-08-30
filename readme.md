@@ -23,7 +23,7 @@
 
 This is a public collection of undesirable content, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
-See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link.csv) for the underlying data. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
+See the [spreadsheet](https://github.com/nerdbond/fire/blob/make/link/negative.csv) for the underlying data on negative things. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
 
 ## Content
 
