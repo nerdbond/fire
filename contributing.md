@@ -2,6 +2,11 @@
 
 Thank you so much for wanting or helping to contribute, it means so much and this will hopefully serve as a great resource for other journalists, researchers, and self-learners to figure out what's right and wrong with society for themselves.
 
+_This is a parallel project with the
+[seed](https://github.com/nerdbond/seed) repo, which itself focuses on
+curating structured data of various kinds for use in software projects. This
+fire repo is instead collecting and organizing current and historical events for better awareness of things in society._
+
 ## Goals
 
 The main goal of this project is to **curate high quality content** regarding the themes and categories outlined in the [readme](https://github.com/nerdbond/fire/blob/make/readme.md#content). This in particular means:
