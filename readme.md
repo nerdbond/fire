@@ -111,4 +111,4 @@ This work is published from the
 
 ## WaveBond
 
-This is being organized by the folks at [WaveBond](https://wave.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/wavebond), [LinkedIn](https://www.linkedin.com/company/wavebond), and [Facebook](https://www.facebook.com/wavebond). Check out our other [GitHub projects](https://github.com/wavebond) as well!
+This is being organized by the folks at [WaveBond](https://wave.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/_wavebond), [LinkedIn](https://www.linkedin.com/company/wavebond), and [Facebook](https://www.facebook.com/wavebond). Check out our other [GitHub projects](https://github.com/wavebond) as well!
