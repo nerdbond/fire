@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/wavebond/fire/blob/make/view/fire.gif?raw=true' height='256'>
+  <img src='https://github.com/textsurf/fire/blob/make/view/fire.gif?raw=true' height='256'>
 </p>
 
 <h3 align='center'>fire</h3>
@@ -23,7 +23,7 @@
 
 This is a public collection of undesirable content, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
-See the [spreadsheet](https://github.com/wavebond/fire/blob/make/link/negative.csv) for the underlying data on negative things. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
+See the [spreadsheet](https://github.com/textsurf/fire/blob/make/link/negative.csv) for the underlying data on negative things. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
 
 ## Content
 
@@ -79,7 +79,7 @@ This section is decisions we as a society make to try and find peace and balance
 
 ## Contribute
 
-If you have something recent, or have dug up something important in the past, please [open an issue or PR](https://github.com/wavebond/fire/issues) with a link to the content so we can add it to the collection. For a more detailed guide on one particular approach to contributing sort of like a journalist, see the [contributing guide](https://github.com/wavebond/fire/blob/make/contributing.md).
+If you have something recent, or have dug up something important in the past, please [open an issue or PR](https://github.com/textsurf/fire/issues) with a link to the content so we can add it to the collection. For a more detailed guide on one particular approach to contributing sort of like a journalist, see the [contributing guide](https://github.com/textsurf/fire/blob/make/contributing.md).
 
 This is not a news site, but a place to aggregate important media so we can become more aware of how the world is functioning with today's complexities and problems.
 
@@ -99,16 +99,16 @@ This is not a news site, but a place to aggregate important media so we can beco
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/wavebond">
-    <span property="dct:title">WaveBond</span></a>
+     href="https://github.com/textsurf">
+    <span property="dct:title">TextSurf</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">fire</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/wavebond">
+      content="US" about="https://github.com/textsurf">
   United States</span>.
 </p>
 
-## WaveBond
+## TextSurf
 
-This is being organized by the folks at [WaveBond](https://wave.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/_wavebond), [LinkedIn](https://www.linkedin.com/company/wavebond), and [Facebook](https://www.facebook.com/wavebond). Check out our other [GitHub projects](https://github.com/wavebond) as well!
+This is being organized by the folks at [TextSurf](https://text.surf), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/_textsurf), [LinkedIn](https://www.linkedin.com/company/textsurf), and [Facebook](https://www.facebook.com/textsurf). Check out our other [GitHub projects](https://github.com/textsurf) as well!
