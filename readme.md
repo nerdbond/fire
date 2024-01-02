@@ -12,7 +12,7 @@
 
 <h3 align='center'>fire</h3>
 <p align='center'>
-  An undesirable content collection
+  Recent Events of Public Importance
 </p>
 
 <br/>
@@ -21,11 +21,22 @@
 
 ## Hello
 
-This is a public collection of undesirable content, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
+This is a public collection of recent events of public importance, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
-See the [spreadsheet](https://github.com/termsurf/fire/blob/make/link/negative.csv) for the underlying data on negative things. These are displayed on [beat.land/fire](https://beat.land/fire) for now.
+These are displayed on [fire.beat.land](https://fire.beat.land) for now.
 
 ## Content
+
+### Positive Categories
+
+- **protests** (peaceful protests and demonstrations)
+- **love**
+- **sharing**
+- **open-mindedness**
+- **education**
+- **values**
+- **awareness**
+- **factchecking**
 
 ### Negative Categories
 
@@ -61,17 +72,6 @@ See the [spreadsheet](https://github.com/termsurf/fire/blob/make/link/negative.c
   - pollution
 - **misinformation** (stuff intending to deceive)
   - propaganda
-
-### Positive Categories
-
-- **protests** (peaceful protests and demonstrations)
-- **love**
-- **sharing**
-- **open-mindedness**
-- **education**
-- **values**
-- **awareness**
-- **factchecking**
 
 ### Decisions / Change
 
