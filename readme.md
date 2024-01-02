@@ -23,7 +23,77 @@
 
 This is a public collection of recent events of public importance, so you can get a better sense of what's happening in the world without the excess stuff, and see it en masse.
 
-These are displayed on [fire.beat.land](https://fire.beat.land) for now.
+These are displayed on [`fire.beat.surf`](https://fire.beat.surf) for now.
+
+## Data Files
+
+The files will be YAML files of the base data, so it can be captured in raw form. The files go into folder structures which is how the URL structure will be for the data on [`fire.beat.surf`](https://fire.beat.surf). The `link` property is relative to this folder path. This way sub collections can be built out of the raw data on the website.
+
+### Event Files
+
+Most of these fields are optional for events.
+
+```yaml
+- text: An event description
+  link: /an-event
+  date: Jan 1, 1970 - Jan 11, 1971
+  view:
+    - img.jpg
+  cite:
+    - https://example.source.com
+  site:
+    - A location
+  term:
+    - keyword
+```
+
+### Person Files
+
+Most of these fields are optional.
+
+```yaml
+- text: A person description
+  name: Person Name
+  link: /a-person
+  rise:
+    date: Jan 1, 1970 # birthdate
+    site: Birth location
+  fall:
+    date: Dec 31, 2010 # death date
+    site: Death location
+  view:
+    - img.jpg
+  cite:
+    - https://example.source.com
+  site:
+    - A location
+  term:
+    - keyword
+```
+
+### Place Files
+
+Most of these fields are optional.
+
+```yaml
+- text: A place description
+  name: Place name
+  link: /a-place
+  rise:
+    date: Jan 1, 1970 # birthdate
+    site: Birth location
+  fall:
+    date: Dec 31, 2010 # death date
+    site: Death location
+  view:
+    - img.jpg
+  cite:
+    - https://example.source.com
+  site:
+    - A location
+  term:
+    - keyword
+```
 
 ## Content
 
